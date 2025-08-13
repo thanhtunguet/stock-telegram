@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+.venv/
+debug_inputs/
+.env
+tg_stock_session.session
